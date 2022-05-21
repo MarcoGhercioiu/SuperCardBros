@@ -1,0 +1,10 @@
+✓ Update UI after draw card
+✓ Create title screen ui
+✓ create game over ui
+✓ fix new game button in pause menu
+fix character stats
+character passives
+✓ remove table prefab, create our own texture (filesize optimization)
+add icons for attack health and mana on card
+add backs to cards (deck)
+add instructions to pause menu
